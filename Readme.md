@@ -7,6 +7,8 @@
 
 Интуитивно необходимо выбрать подходящие типы и связи полей.
 
+![alt text](https://github.com/GailaSablina/Python-ORM/blob/main/book_publishers_scheme.png)
+
 Задание 2
 Используя SQLAlchemy, составить запрос выборки магазинов, продающих целевого издателя.
 
